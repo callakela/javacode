@@ -1,7 +1,7 @@
 
 public class LinkedList {
 	
-	   protected Node start;
+	    protected Node start;
 	    protected Node end ;
 	    public int size;
 	    
